@@ -22,9 +22,7 @@ The Software Research Group (SRG) is an internal, student-led research and devel
 ## 👥 Organizational Chart
 
 - Faculty Adviser
-- Executive Lead
-- Research Committee
+- Faculty Co-Advisors
 - Software Development Team
-- DevOps & Infrastructure Support
 
 For maintainer contacts and access procedures, see internal onboarding resources or contact the Faculty Adviser.
