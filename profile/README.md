@@ -3,18 +3,9 @@
   <img src="assets/banner.png" alt="SRG banner" width="100%" />
 </p>
 
-<!-- Header -->
-<p align="left">
-  <img src="assets/logo.png" alt="SRG logo" width="96" style="border-radius:12px; vertical-align:middle; margin-right:16px;" />
-  <span style="font-size:28px; font-weight:700; vertical-align:middle;">
-    Software Research Group — PUPQC
-  </span>
-  <span style="margin-left:12px; color:#6b7280; font-size:14px; vertical-align:middle;">
-    Internal Academic & Development Unit
-  </span>
-</p>
+# Software Research Group (SRG) - PUPQC
 
----
+
 
 ## 🏛 About the Organization
 
